@@ -28,3 +28,8 @@
 
 # "temporary" build files
 /target
+/metro-ui-grails-plugin.iml
+/metro-ui-grails-plugin.ipr
+/metro-ui-grails-plugin.iws
+/metro-ui-grails-plugin-grailsPlugins.iml
+/.idea
